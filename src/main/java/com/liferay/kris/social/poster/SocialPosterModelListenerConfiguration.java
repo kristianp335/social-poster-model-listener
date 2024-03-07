@@ -98,7 +98,7 @@ interface SocialPosterModelListenerConfiguration {
             name = "hubspotToken",
             description = "General fully qualified URL for the campaign, should be similar to the endpoint",
             required = true,
-            deflt = "Bearer pat-na1-3bdfeea1-1251-46a5-b8d9-2f5f62500adc"
+            deflt = "Bearer ******"
     )
     public String hubspotToken();
     
