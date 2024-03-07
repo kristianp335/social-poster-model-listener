@@ -1,0 +1,1 @@
+A model listener that integrates both Hubspot and Facebook, so that when content of a particular structure is created the content is posted to a Facebook page and a Hubspot marketing email template is created.
